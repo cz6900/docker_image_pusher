@@ -6,3 +6,4 @@ xhofe/alist:latest
 --platform=linux/arm64 xiaoyaliu/alist
 suziwen/dragon
 joinsunsoft/docker.ui
+wbsu2003/weektodo
